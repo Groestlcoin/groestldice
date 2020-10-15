@@ -2,9 +2,6 @@
 
 **Generating Groestlcoin private key and BIP39 mnemonic words using dice**
 
-### Generate groestlcoin BIP39 mnemonic words using dice
-![](./assets/readme_md/seedgen-dice.gif)
-
 
 ### Overview of generating the groestlcoin seed and mnemonic words
 ![](./assets/readme_md/generate-privatekey.png)
