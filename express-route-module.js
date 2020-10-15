@@ -14,6 +14,6 @@ module.exports = function(){
     })
 
     app.listen(3001, function () {
-        console.log('bfs-gui has been started')
+        console.log('groestldice-gui has been started')
     })
 }

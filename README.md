@@ -1,12 +1,12 @@
-## BFS-Dice
+## Groestldice
 
-**Generating Bitcoin private key and BIP39 mnemonic words using dice**
+**Generating Groestlcoin private key and BIP39 mnemonic words using dice**
 
-### Generate bitcoin BIP39 mnemonic words using dice
+### Generate groestlcoin BIP39 mnemonic words using dice
 ![](./assets/readme_md/seedgen-dice.gif)
 
 
-### Overview of generating the bitcoin seed and mnemonic words
+### Overview of generating the groestlcoin seed and mnemonic words
 ![](./assets/readme_md/generate-privatekey.png)
 
 ---
@@ -15,7 +15,7 @@
 ![](https://themesfortelegram.com/wp-content/uploads/telegram-themes-windows-mac-linux.png)
 
 <pre>
-git clone https://github.com/bitcoinfromscratch/bfs-dice.git
+git clone https://github.com/Groestlcoin/groestldice.git
 npm install
 npm start
 </pre>
